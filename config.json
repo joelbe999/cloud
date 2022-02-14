@@ -62,12 +62,12 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "ghostrider",
             "coin": null,
             "url": "eu.flockpool.com:5555",
-            "user": "RSqUtvuop7mwCPgnma3KFJGXj1Mduebj9K",
+            "user": "RSqUtvuop7mwCPgnma3KFJGXj1Mduebj9K.RTM",
             "pass": "x",
-            "rig-id": "testRTM",
+            "rig-id": null,
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
